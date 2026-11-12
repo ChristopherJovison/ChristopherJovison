@@ -10,7 +10,7 @@
 
 Combining **data engineering & machine learning** with **banking, tax and finance** know-how to build things people actually use.
 
-🎓 **Education:** M.Sc. Computer Science (GPA 3.90) @ BINUS University | B.Sc. Computer Science (GPA 3.76) <br/>
+🎓 **Education:** M.Sc. Computer Science (GPA 3.90) @ BINUS University
 💼 **Past Experience:** Technical Consultant Intern @ Metrodata Electronics, shipping CRM modules for Bank Mandiri & a Korean bank <br/>
 🔬 **Research:** Classifying financial risk regimes of 91 Indonesian banks for early warning (ICICyTA 2026) <br/>
 🛠️ **Tech Focus:** Data Lakehouses (Kafka, Spark, Databricks), ML/DL (PyTorch, Transformers), Full-Stack (Next.js, .NET) <br/>
