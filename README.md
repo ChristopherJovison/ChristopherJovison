@@ -131,7 +131,6 @@ Combining **data engineering & machine learning** with **banking, tax and financ
 #### 🛠️ Engineering & Research
 * 📄 **Paper** – *PC-DTCC for Bank Risk Regime Identification*, ICICyTA 2026 (91 banks, 11,102 windows)
 * ⚡ **500+ users** – CoreTax Automation Chrome Extension for Indonesian tax filing
-* 🏦 **Production algorithm** – Greedy loan-collection allocation adopted at Metrodata, running over millions of records
 * 📊 **Macro-F1 0.9204** – Task-adaptive pretraining for hyperpartisan news detection (SemEval 2019)
 
 #### 🤝 Leadership
